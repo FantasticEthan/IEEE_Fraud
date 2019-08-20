@@ -1,6 +1,8 @@
 ### data files
 data/
 
-
 ### idea files
 .idea/
+
+### predict files
+predict/
